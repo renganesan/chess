@@ -1,0 +1,20 @@
+.whitespan{
+    color: 
+    #5c5c5c;
+    font-size: 32px;
+    padding-left: 13px;
+}
+.blackspan{
+    color:#000000;
+    font-size: 32px;
+    padding-left: 13px;
+}
+.bg{
+    background-image: url('assert/pngtree-intense-conflict-on-the-chessboard-a-3d-illustrated-game-image_3755880.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+body{
+    color: #b15d5d;
+}
